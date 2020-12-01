@@ -91,7 +91,7 @@ ul li ul li {
     top: 20%;
     visibility: hidden;
     animation:nowyouseeme;
-    animation-duration: 0; 
+    animation-duration: 3s; 
 	animation-timing-function: ease-in; 
 	animation-delay: 0.4s;
 	animation-direction: normal;
